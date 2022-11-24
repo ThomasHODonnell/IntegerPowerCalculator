@@ -1,14 +1,13 @@
-__Quadratic Solver__
+__Integer Power Calculator__
 
-This was my first project in CSC 1253, which was my intro to C++ course. 
+This was my second project in CSC 1253, which was my intro to C++ course. 
 
-_This program calculates the solutions, discriminate, axis of symmetry,
-vertex, roots, and y intercepts of a quadratic function._
+_This program calculates exponential math operations with integer exponents._
 
-This is a very basic program, which handles program control, elementry arithmatic operations, and input validation. 
+This is a very basic program, that is inteneded to introduce loops, and complete basic arithmatic operations with exponents.
 
 __How to Run?__
 
-- Enter a valid quadratic equation, and the program will output the corresponding values listed above.
+- Enter a valid base and exponent, and the program will output the corresponding mathimatical calculation.
 
 
